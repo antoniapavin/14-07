@@ -1,0 +1,22 @@
+{
+  "jogadores": [
+    {
+      "timeId": "oi",
+      "nome": "a",
+      "id": 1
+    },
+    {
+      "timeId": "oi",
+      "nome": "a",
+      "idade": "12",
+      "id": 2
+    },
+    {
+      "nome": "oi",
+      "timeId": "f",
+      "idade": "1",
+      "id": 3
+    }
+  ],
+  "times": []
+}
